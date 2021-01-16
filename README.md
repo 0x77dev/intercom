@@ -1,6 +1,6 @@
 # Intercom
 
-Intercom assistant, built for integrate your old-school intercom with Particle Cloud and Home Assistant
+Intercom assistant, built for integrating your old-school intercom with Particle Cloud and Home Assistant
 
 ## Flow
 
