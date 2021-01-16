@@ -69,7 +69,7 @@ void setup()
   // Setup MQTT
   Particle.publish("intercom/mqtt/status", "connecting");
 
-  client.connect("intercom", "mqtt", "mqtt33327113");
+  client.connect("intercom", "mqtt", "mqttpassword");
 
   if (client.isConnected())
   {
