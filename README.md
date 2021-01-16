@@ -4,7 +4,7 @@ Intercom assistant, built for integrate your old-school intercom with Particle C
 
 ## Flow
 
-![Diagram](./diagram.svg)
+![Diagram](./images/diagram.svg)
 
 ### Without line voltage change
 
